@@ -1,0 +1,29 @@
+body{
+  padding:0px;
+  margin:0px;
+}
+header {
+  background: 
+    url(https://cdn.oneesports.vn/cdn-data/sites/4/2021/11/valorant-chamber-6180efdccf50a-1024x576.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.tieu_de {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  text-align: center;
+}
+h1 {
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 2rem;
+  white-space: nowrap;
+}
+h5{
+  font-size: 1rem;
+}
+
